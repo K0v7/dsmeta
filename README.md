@@ -1,6 +1,6 @@
 ## Projeto Web Frontend e Backend Java Spring 
 
-Feito Utilizanod React
+Feito Utilizando as seguntes ferramentas
 
 Frontend: React, React Hooks, HTML5, CSS3
 Backend: Java, Spring Boot, JPA, Hibernate NodeJs
